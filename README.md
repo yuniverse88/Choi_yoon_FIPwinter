@@ -1,6 +1,7 @@
 # 2023 WINTER FIP
 
-Yoon Hee Choi work this project for winter 2023 FIP
+Yoon Hee Choi work this project for winter 2023 FIPI
+My subject is rebranding Dr.NUT
 
 
 ## Contributing
